@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/BlazorMauiApp.app

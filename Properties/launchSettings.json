@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "İos Machine": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

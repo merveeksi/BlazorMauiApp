@@ -1,0 +1,3484 @@
+{
+  "Version": 1,
+  "Hash": "yztKzb6GxxbEyLHmnmbnaRoCa/rBJlM09j9pUKV9gUo=",
+  "Source": "BlazorMauiApp",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorMauiApp/wwwroot",
+      "Source": "BlazorMauiApp",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ai7e4jph4e-bpk8xqwxhs.gz",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wg8z90xh4u",
+      "Integrity": "oA7vaP7X1hcAU8RGnp4MFBWtZmukcKCru5+LrmzIqeg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/gbwuepigdy-di18gc0nyx.gz",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=di18gc0nyx}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jw926f3huy",
+      "Integrity": "o3Bw595V2k8VtY3EX+iOV8f+XwXP5VGZfYzP+VS3G8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/app.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ke50u1k4p0-u6ehbmr18u.gz",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/",
+      "BasePath": "/",
+      "RelativePath": "BlazorMauiApp#[.{fingerprint=u6ehbmr18u}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "skuy32rhc6",
+      "Integrity": "TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/kz2on66j5w-8inm30yfxf.gz",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a5iolpc9xz",
+      "Integrity": "3qo3UHtt1eBcfATKJXtIrY+ZdPuBA21DhCoR49jAwbE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ai7e4jph4e-bpk8xqwxhs.br",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "0a4shpx689",
+      "Integrity": "qEmU7HL17FBBwHhrJ28XVYnuh/N2b+c32hAMy5hHHsY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/gbwuepigdy-di18gc0nyx.br",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=di18gc0nyx}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "a6wqwlpy4y",
+      "Integrity": "YsmfAj4JjRcUQV9EU2+NBdjIE2/OgPouPPy1MSugEnw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/app.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ke50u1k4p0-u6ehbmr18u.br",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/",
+      "BasePath": "/",
+      "RelativePath": "BlazorMauiApp#[.{fingerprint=u6ehbmr18u}]?.styles.css.br",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "4k5vettifi",
+      "Integrity": "5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/kz2on66j5w-8inm30yfxf.br",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "b4a1wrn6r6",
+      "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/qukb9ux5nk-u6ehbmr18u.br",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/",
+      "BasePath": "/",
+      "RelativePath": "BlazorMauiApp#[.{fingerprint=u6ehbmr18u}]!.bundle.scp.css.br",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "4k5vettifi",
+      "Integrity": "5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/t7eto0lnb5-gegt55to87.br",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=gegt55to87}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "4a7132z1i2",
+      "Integrity": "5IklthYJ4Qz2R5hXyOQqsy0U4ssG9oG81uy7+9ctFos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/qukb9ux5nk-u6ehbmr18u.gz",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/",
+      "BasePath": "/",
+      "RelativePath": "BlazorMauiApp#[.{fingerprint=u6ehbmr18u}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "skuy32rhc6",
+      "Integrity": "TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/t7eto0lnb5-gegt55to87.gz",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=gegt55to87}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "37yw5wgvmf",
+      "Integrity": "4SVHvQc7bn2BEOiVPbwx8bbrSNagHeSBUqdjNw0H8i0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/",
+      "BasePath": "/",
+      "RelativePath": "BlazorMauiApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "u6ehbmr18u",
+      "Integrity": "6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/",
+      "BasePath": "/",
+      "RelativePath": "BlazorMauiApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "u6ehbmr18u",
+      "Integrity": "6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/app.css",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "di18gc0nyx",
+      "Integrity": "W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/app.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/index.html",
+      "SourceId": "BlazorMauiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gegt55to87",
+      "Integrity": "SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "BlazorMauiApp.bundle.scp.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/qukb9ux5nk-u6ehbmr18u.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739098300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.bundle.scp.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/qukb9ux5nk-u6ehbmr18u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000619578686"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.bundle.scp.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.bundle.scp.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/qukb9ux5nk-u6ehbmr18u.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.bundle.scp.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/qukb9ux5nk-u6ehbmr18u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.styles.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ke50u1k4p0-u6ehbmr18u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000619578686"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.styles.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ke50u1k4p0-u6ehbmr18u.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739098300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.styles.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.styles.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ke50u1k4p0-u6ehbmr18u.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.styles.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ke50u1k4p0-u6ehbmr18u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.bundle.scp.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/qukb9ux5nk-u6ehbmr18u.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739098300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.bundle.scp.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/qukb9ux5nk-u6ehbmr18u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000619578686"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.bundle.scp.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/projectbundle/BlazorMauiApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.bundle.scp.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/qukb9ux5nk-u6ehbmr18u.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.bundle.scp.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.bundle.scp.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/qukb9ux5nk-u6ehbmr18u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.styles.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ke50u1k4p0-u6ehbmr18u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000619578686"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.styles.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ke50u1k4p0-u6ehbmr18u.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739098300"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.styles.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/scopedcss/bundle/BlazorMauiApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6qpKG2Mb/0y/PRYrNoiL21TMQd0DN6cPSQPGI7allVU="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.styles.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ke50u1k4p0-u6ehbmr18u.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5N+96L2BtEJcI1DjGMVqMyLmAqqYuXydHybuEeFiwbI="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorMauiApp.u6ehbmr18u.styles.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ke50u1k4p0-u6ehbmr18u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Dec 2024 07:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6ehbmr18u"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorMauiApp.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TOrnJImTUr1XgH+sN8R8sRGiWon3vBqJ6+0vftBsZmY="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/gbwuepigdy-di18gc0nyx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000558659218"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1789"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3Bw595V2k8VtY3EX+iOV8f+XwXP5VGZfYzP+VS3G8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/gbwuepigdy-di18gc0nyx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000646830530"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1545"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsmfAj4JjRcUQV9EU2+NBdjIE2/OgPouPPy1MSugEnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/gbwuepigdy-di18gc0nyx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsmfAj4JjRcUQV9EU2+NBdjIE2/OgPouPPy1MSugEnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsmfAj4JjRcUQV9EU2+NBdjIE2/OgPouPPy1MSugEnw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/gbwuepigdy-di18gc0nyx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3Bw595V2k8VtY3EX+iOV8f+XwXP5VGZfYzP+VS3G8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3Bw595V2k8VtY3EX+iOV8f+XwXP5VGZfYzP+VS3G8s="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/gbwuepigdy-di18gc0nyx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000558659218"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1789"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3Bw595V2k8VtY3EX+iOV8f+XwXP5VGZfYzP+VS3G8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/gbwuepigdy-di18gc0nyx.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000646830530"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1545"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsmfAj4JjRcUQV9EU2+NBdjIE2/OgPouPPy1MSugEnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/gbwuepigdy-di18gc0nyx.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsmfAj4JjRcUQV9EU2+NBdjIE2/OgPouPPy1MSugEnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsmfAj4JjRcUQV9EU2+NBdjIE2/OgPouPPy1MSugEnw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/gbwuepigdy-di18gc0nyx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3Bw595V2k8VtY3EX+iOV8f+XwXP5VGZfYzP+VS3G8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3Bw595V2k8VtY3EX+iOV8f+XwXP5VGZfYzP+VS3G8s="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ai7e4jph4e-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041925205"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oA7vaP7X1hcAU8RGnp4MFBWtZmukcKCru5+LrmzIqeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ai7e4jph4e-bpk8xqwxhs.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057382223"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEmU7HL17FBBwHhrJ28XVYnuh/N2b+c32hAMy5hHHsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ai7e4jph4e-bpk8xqwxhs.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEmU7HL17FBBwHhrJ28XVYnuh/N2b+c32hAMy5hHHsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEmU7HL17FBBwHhrJ28XVYnuh/N2b+c32hAMy5hHHsY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ai7e4jph4e-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oA7vaP7X1hcAU8RGnp4MFBWtZmukcKCru5+LrmzIqeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oA7vaP7X1hcAU8RGnp4MFBWtZmukcKCru5+LrmzIqeg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ai7e4jph4e-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041925205"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oA7vaP7X1hcAU8RGnp4MFBWtZmukcKCru5+LrmzIqeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ai7e4jph4e-bpk8xqwxhs.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057382223"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEmU7HL17FBBwHhrJ28XVYnuh/N2b+c32hAMy5hHHsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/kz2on66j5w-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qo3UHtt1eBcfATKJXtIrY+ZdPuBA21DhCoR49jAwbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/kz2on66j5w-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/kz2on66j5w-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/kz2on66j5w-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qo3UHtt1eBcfATKJXtIrY+ZdPuBA21DhCoR49jAwbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3qo3UHtt1eBcfATKJXtIrY+ZdPuBA21DhCoR49jAwbE="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/ai7e4jph4e-bpk8xqwxhs.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEmU7HL17FBBwHhrJ28XVYnuh/N2b+c32hAMy5hHHsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEmU7HL17FBBwHhrJ28XVYnuh/N2b+c32hAMy5hHHsY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/ai7e4jph4e-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oA7vaP7X1hcAU8RGnp4MFBWtZmukcKCru5+LrmzIqeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oA7vaP7X1hcAU8RGnp4MFBWtZmukcKCru5+LrmzIqeg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/kz2on66j5w-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qo3UHtt1eBcfATKJXtIrY+ZdPuBA21DhCoR49jAwbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/kz2on66j5w-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/kz2on66j5w-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/kz2on66j5w-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3qo3UHtt1eBcfATKJXtIrY+ZdPuBA21DhCoR49jAwbE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3qo3UHtt1eBcfATKJXtIrY+ZdPuBA21DhCoR49jAwbE="
+        }
+      ]
+    },
+    {
+      "Route": "index.gegt55to87.html",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/t7eto0lnb5-gegt55to87.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003257328990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IklthYJ4Qz2R5hXyOQqsy0U4ssG9oG81uy7+9ctFos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gegt55to87"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.gegt55to87.html",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/t7eto0lnb5-gegt55to87.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002298850575"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "434"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SVHvQc7bn2BEOiVPbwx8bbrSNagHeSBUqdjNw0H8i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gegt55to87"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.gegt55to87.html",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gegt55to87"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.gegt55to87.html.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/t7eto0lnb5-gegt55to87.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IklthYJ4Qz2R5hXyOQqsy0U4ssG9oG81uy7+9ctFos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gegt55to87"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5IklthYJ4Qz2R5hXyOQqsy0U4ssG9oG81uy7+9ctFos="
+        }
+      ]
+    },
+    {
+      "Route": "index.gegt55to87.html.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/t7eto0lnb5-gegt55to87.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SVHvQc7bn2BEOiVPbwx8bbrSNagHeSBUqdjNw0H8i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gegt55to87"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4SVHvQc7bn2BEOiVPbwx8bbrSNagHeSBUqdjNw0H8i0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/t7eto0lnb5-gegt55to87.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003257328990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IklthYJ4Qz2R5hXyOQqsy0U4ssG9oG81uy7+9ctFos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/t7eto0lnb5-gegt55to87.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002298850575"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "434"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SVHvQc7bn2BEOiVPbwx8bbrSNagHeSBUqdjNw0H8i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCFp3HFjM0FiESLuhbvFdRNUu26/TSU0qNENapjCk4Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/publish/t7eto0lnb5-gegt55to87.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IklthYJ4Qz2R5hXyOQqsy0U4ssG9oG81uy7+9ctFos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5IklthYJ4Qz2R5hXyOQqsy0U4ssG9oG81uy7+9ctFos="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/pc/Desktop/BlazorMaui/src/BlazorMauiApp/obj/Debug/net9.0-ios/iossimulator-x64/compressed/t7eto0lnb5-gegt55to87.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SVHvQc7bn2BEOiVPbwx8bbrSNagHeSBUqdjNw0H8i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Dec 2024 21:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4SVHvQc7bn2BEOiVPbwx8bbrSNagHeSBUqdjNw0H8i0="
+        }
+      ]
+    }
+  ]
+}
